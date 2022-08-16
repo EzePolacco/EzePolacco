@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EzePolacco
+- 👋 Hi, I’m Ezequiel
 - 👀 I’m interested in data analysis, Python, SQL, data viz and stats. Also I like data mining
 - 🌱 I’m currently learning Python and SQL on my own and applying what I have learned in projects that I upload here!
 - 💞️ I’m looking to collaborate on projects that requires Python and database management
