@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ezequiel
-- 👀 I’m interested in data analysis, Python, SQL, data viz and stats.
-- 🌱 I’m currently learning Python and SQL on my own and applying what I have learned in projects that I upload here!
+- 👀 I’m interested in data engineering, data analysis, Python, SQL, data viz and stats.
+- 🌱 I’m currently working as a data person using Python, SQL, among others.
 - 💞️ I’m looking to collaborate on projects that requires Python and database management
 - 📫 How to reach me ? We can connect on LinkedIn https://www.linkedin.com/in/ezequiel-polacco/
 
